@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Huahao Shang 👋
 
-<!--
-**wilsons26/wilsons26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of Computer Science at Rice University  
+💻 Software Engineering Enthusiast  
+🔭 Working on Web Development and Data Science Projects  
+🌱 Currently learning Cloud Computing and Machine Learning  
+📫 Reach me at huahao@example.com
 
-Here are some ideas to get you started:
+## Projects
+- [Project 1](https://github.com/username/project1): Brief description of the project.
+- [Project 2](https://github.com/username/project2): Brief description of the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: Python, JavaScript, Java, C++
+- **Tools & Frameworks**: React, Node.js, Flask, Docker, Git
+
+![Huahao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilsons26&show_icons=true&theme=radical)
